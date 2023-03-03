@@ -244,19 +244,22 @@
 //     }
 // }
 
-// let list = new Node(100);
-// list.addData(200);
-// list.addData(300);
-// list.addData(400);
-// list.addData(500);
-// // console.log(list);
+// let list = new Node(4);
+// list.addData(5);
+// list.addData(6);
+// list.addData(7);
+// list.addData(8);
+// list.addData(9);
+// console.log(list);
 
-// let list2 = new Node(600);
-// list2.addData(700);
-// list2.addData(200);
-// list2.addData(100);
-// list2.addData(400);
-// // console.log(list2);
+// let list2 = new Node(11);
+// list2.addData(12);
+// list2.addData(13);
+// list2.addData(6);
+// list2.addData(7);
+// list2.addData(8);
+// list2.addData(9);
+// console.log(list2);
 
 // for(let i = list.head; i!=null; i=i.next){
 //     for(let j = list2.head; j!=null; j=j.next){
